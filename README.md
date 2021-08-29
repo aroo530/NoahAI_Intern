@@ -1,1 +1,2 @@
 # Noah_Intern
+<h3>this is the end I guess this project was both exhausting and fun I cannot thank you enough for your help I wish I attended more meetings they were really informative but oh well I cannot thank you enough because this project set my foot on a new journey I wish I would spend more time with you though but I guess it came to an end but who knows I may apply for a job there and we be colleagues XD</h3>
