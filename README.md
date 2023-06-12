@@ -1,6 +1,6 @@
 # Noah_Intern
 
-this project is a sum of three projects
+this inern consists of mainly three projects
 
     #1 data cleaning and visualisation project
     #2 sentiment analysis using python for food reviews 
